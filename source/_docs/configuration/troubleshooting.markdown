@@ -8,7 +8,7 @@ It can happen that you run into trouble while configuring Home Assistant. Perhap
 
 Before we dive into common issues, make sure you know where your configuration directory is. Home Assistant will print out the configuration directory it is using when starting up.
 
-Whenever a integration or configuration option results in a warning, it will be stored in `home-assistant.log` in the configuration directory. This file is reset on start of Home Assistant.
+Whenever an integration or configuration option results in a warning, it will be stored in `home-assistant.log` in the configuration directory. This file is reset on start of Home Assistant.
 
 ### My integration does not show up
 
